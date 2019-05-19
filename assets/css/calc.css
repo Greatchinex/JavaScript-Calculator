@@ -1,0 +1,156 @@
+#section{
+    /* position: relative;
+    top: 5em;
+    left:20em; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top:5em;
+}
+
+#main{
+    border: 1px solid black;
+    height: 30em;
+    width: 25em;
+    background: rgb(248, 189, 189);
+}
+
+#solution{
+    /* border: 1px solid black; */
+    width: 12em;
+    height: 2em;
+    position: relative;
+    left:12.7em;
+    top:0.1em;
+    /* border-radius: 1em; */
+    background: #fff;
+    text-align: right;
+}
+
+#solving{
+    /* border: 1px solid black; */
+    width: 21em;
+    height: 3em;
+    position: relative;
+    top: 0.5em;
+    left: 2em;
+    /* border-radius: 1em; */
+    background: #fff;
+    text-align: right;
+    /* padding: 0 10px; */
+	
+	/* background: rgba(0, 0, 0, 0.2);
+	box-shadow: inset 0px 4px rgba(0, 0, 0, 0.2); */
+}
+
+.solving{
+    width: 30em;
+    height: 7em;
+    position: relative;
+    /* top: 0.5em;
+    left: 2em; */
+    border-radius: 1em;
+}
+
+/* Buttons */
+#buttons1{
+    position: relative;
+    top: 2em;
+    left: 2em;
+}
+
+#no1{
+    width: 3.5em;
+}
+
+#no2{
+    width: 3.5em;
+}
+
+#no3{
+    width: 3.5em;
+}
+
+#plus-sign{
+    width: 3.5em;
+}
+
+#buttons2{
+    position: relative;
+    top: 2.5em;
+    left: 2em;
+}
+
+#no4{
+    width: 3.5em;
+}
+
+#no5{
+    width: 3.5em;
+}
+
+#no6{
+    width: 3.5em;
+}
+
+#minus-sign{
+    width: 3.5em;
+}
+
+#buttons3{
+    position: relative;
+    top: 3em;
+    left: 2em;
+}
+
+#no7{
+    width: 3.5em;
+}
+
+#no8{
+    width: 3.5em;
+}
+
+#no9{
+    width: 3.5em;
+}
+
+#divide-sign{
+    width: 3.5em;
+}
+
+#buttons4{
+    position: relative;
+    top: 3.5em;
+    left: 2em;
+}
+
+#no0{
+    width: 3.5em;
+}
+
+#cancel{
+    width: 3.5em;
+}
+
+#equal{
+    width: 3.5em;
+}
+
+#multiply-sign{
+    width: 3.5em;
+}
+
+#buttons5{
+    position: relative;
+    top: 4em;
+    left: 2em;
+}
+
+#back{
+    width: 7.2em;
+}
+
+#decimal{
+    width: 3.5em;
+}
