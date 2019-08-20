@@ -127,7 +127,7 @@ equal.onclick = function(){
 back.onclick = function(){
     var num = bigScreen.innerHTML;  // Sets the Num variable to the bigscreen
     var len = num.length - 1;           // takes away one from the lenght of the values on the bigScreen
-    var newNum = num.substring(0, len);   // Not So sure of this Method
+    var newNum = num.substring(0, len);
     bigScreen.innerHTML = newNum;   // sets the new Value to the length - 1
 }
 
